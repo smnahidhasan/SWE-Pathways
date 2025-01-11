@@ -1,0 +1,16 @@
+# Ignore executables with common extensions
+*.exe
+*.out
+
+# Ignore directories with build artifacts
+build/
+bin/
+
+# Ignore specific executables
+1.basic_io
+another_executable
+
+*.tests
+*.o
+*.cpp:tests
+
