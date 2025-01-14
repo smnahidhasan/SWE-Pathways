@@ -1,6 +1,7 @@
 ## **Introduction**
 SQL (Structured Query Language) and NoSQL (Not Only SQL) are two types of database systems, each designed to handle different types of data storage and retrieval needs. Here's a breakdown:
 
+
 ## **SQL Databases**
 SQL databases are relational database management systems (RDBMS) that use structured schemas to organize data into tables consisting of rows and columns.
 
